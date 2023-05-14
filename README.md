@@ -30,7 +30,7 @@ For this project, I will create a binary classifier that is capable of predictin
 - The model resulted in the following268/268 - 0s - loss: 0.0081 - accuracy: 0.9991 - 371ms/epoch - 1ms/step Loss: 0.008060415275394917, Accuracy: 0.9990670680999756.
 - I then exported and imported the model to the HDF5 file, "alphabetsoup_optimization.h5".
 - See image below 
--![](https://github.com/Judyhm2/Neuron_Networks/blob/main/1).png
+-![](https://github.com/Judyhm2/Neuron_Networks/blob/main/1.png)
 ## Summary
 In the first deliverable, the merger of the files resulted in a merged dataset of 5 rows and 44 columns. For Deliverable, the model "sequential" had Total params: 395, Trainable params: 395 and Non-trainable params: 0. In Deliverable 3, for optimization the results shows that loss and accuracy of the model indicates 268/268 - 0s - loss: 0.0081 - accuracy: 0.9991 - 302ms/epoch - 1ms/step Loss: 0.008060415275394917, Accuracy: 0.9990670680999756.
 
