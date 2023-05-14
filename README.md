@@ -1,6 +1,6 @@
 # ML: Neuron Networks
 ## Overview
-For this project, I will create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. I whave used a charity data csv file that contains more than 34,000 organizations that have received funding from Alphabet Soup business over the years. There are three technical analysis deliverables as follows:
+For this project, I will create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. I whave used a [charity data csv](https://github.com/Judyhm2/Neuron_Networks/blob/main/charity_data.csv) file that contains more than 34,000 organizations that have received funding from Alphabet Soup business over the years. There are three technical analysis deliverables as follows:
 
 - Deliverable 1: Preprocessing Data for a Neural Network Model (see file [AlphabetSoupCharity](https://github.com/Judyhm2/Neuron_Networks/blob/main/AlphabetSoupCharity.ipynb))
 - Deliverable 2: Compile, Train, and Evaluate the Model (see file [AlphabetSoupCharity](https://github.com/Judyhm2/Neuron_Networks/blob/main/AlphabetSoupCharity.ipynb))
