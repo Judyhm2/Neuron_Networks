@@ -2,9 +2,9 @@
 ## Overview
 For this project, I will create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. I whave used a charity data csv file that contains more than 34,000 organizations that have received funding from Alphabet Soup business over the years. There are three technical analysis deliverables as follows:
 
-- Deliverable 1: Preprocessing Data for a Neural Network Model (see file AlphabetSoupCharity)
-- Deliverable 2: Compile, Train, and Evaluate the Model (see file AlphabetSoupCharity)
-- Deliverable 3: Optimize the Model (see file AlphabetSoupCharity_Optimization)
+- Deliverable 1: Preprocessing Data for a Neural Network Model (see file [AlphabetSoupCharity](#))
+- Deliverable 2: Compile, Train, and Evaluate the Model (see file [AlphabetSoupCharity](#))
+- Deliverable 3: Optimize the Model (see file [AlphabetSoupCharity_Optimization](#))
 ## Results
 ### Deliverable 1: Preprocessing Data for a Neural Network Model
 To Preprocess the Data, I imported csv file charity_data. I then, used "EIN" and "NAME" to drop non-beneficial columns. To Determine the unique values of each column, I generated application_cat as a categorical variable. To visualize the dataset, I used the column APPLICATION_TYPE to plot the data for the graph based on density. See graph below 
