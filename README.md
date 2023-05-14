@@ -15,15 +15,16 @@ For this project, I will create a binary classifier that is capable of predictin
 - See image below 
 
 ![](https://github.com/Judyhm2/Neuron_Networks/blob/main/1_2.png) 
-
+![](https://github.com/Judyhm2/Neuron_Networks/blob/main/1_3.png)
 ### Deliverable 2: Compile, Train, and Evaluate the Model
 - To compile the model, I first defined, deep neural net, by using the number of input features and hidden nodes for each layer. 
 - See image below. 
-![](https://github.com/Judyhm2/Neuron_Networks/blob/main/1_3.png)
+![](https://github.com/Judyhm2/Neuron_Networks/blob/main/2.png)
 
 - The model was compiled and trained to fit 100 epochs.
 - The evaluation of the model using the test data resulted in the following
 - 268/268 - 0s - loss: 0.0489 - accuracy: 0.9900 - 396ms/epoch - 1ms/step Loss: 0.04886231571435928, Accuracy: 0.989970862865448 
+![](https://github.com/Judyhm2/Neuron_Networks/blob/main/2_1.png)
 
 ### Deliverable 3: Optimize the Model
 - To Optimize the Model, I imported checkpoint dependencies. I then, created a compilation model using (loss="binary_crossentropy", optimizer="adam", metrics=["accuracy"]). I created a callback that saves the model's weights in 100 epochs, through training and evaluation of the data.
